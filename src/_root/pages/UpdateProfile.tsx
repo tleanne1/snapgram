@@ -1,7 +1,7 @@
 import React from "react";
 
-const UpdatedProfile = () => {
-  return <div>UpdatedProfile</div>;
+const UpdateProfile = () => {
+  return <div>UpdateProfile</div>;
 };
 
-export default UpdatedProfile;
+export default UpdateProfile;
